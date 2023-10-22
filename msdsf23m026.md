@@ -4,11 +4,11 @@
 - **Phone:** +(92) 302-5323915
 
 ## Profile:
-
+--------------------------------------------------------------------------------------------------------------------------------------
 To secure a challenging position that provides an opportunity to grow and excel in the field of Computer Science and using best practices to achieve organizational targets. And to secure a career in IT field & software development in reputed organization.
 
 ## Skills Summary:
-
+--------------------------------------------------------------------------------------------------------------------------------------
 #### Skills:
    - Web Development
    - WordPress 
@@ -31,7 +31,7 @@ To secure a challenging position that provides an opportunity to grow and excel 
    - GIT
 
 ## Employment History:
-
+--------------------------------------------------------------------------------------------------------------------------------------
 #### Tkbees
    ##### Web Developer Mar 2022 – Present
    - Worked on NableMD/Nable IVF as full stack developer
@@ -57,12 +57,13 @@ To secure a challenging position that provides an opportunity to grow and excel 
    - scrapped data on daily basis and store in database.
 
 ## Education:
-
+--------------------------------------------------------------------------------------------------------------------------------------
 #### (2016– 2020) B.S. Computer Sciences
    - University of Sargodha sub campus Mianwali
    - Major: Web Application Development, Data Structures, OOP, Digital Image Processing
    
 ## Projects:
+--------------------------------------------------------------------------------------------------------------------------------------
 #### SMART on FHIR : 
    - Successfully implemented SMART protocol for third party apps to connect with EMR for data interoperability based on HL7 FHIR standard for NableMD (EMR system).
 
