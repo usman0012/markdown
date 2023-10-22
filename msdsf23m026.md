@@ -4,11 +4,11 @@
 - **Phone:** +(92) 302-5323915
 
 ## Profile:
---------------------------------------------------------------------------------------------------------------------------------------------
+
 To secure a challenging position that provides an opportunity to grow and excel in the field of Computer Science and using best practices to achieve organizational targets. And to secure a career in IT field & software development in reputed organization.
 
 ## Skills Summary:
---------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Skills:
    - Web Development
    - WordPress 
@@ -23,7 +23,6 @@ To secure a challenging position that provides an opportunity to grow and excel 
 #### Tools:
    - PHP
    - JavaScript
-   - GIT
    - MySQL
    - Laravel
    - SciKit-Learn
@@ -32,9 +31,9 @@ To secure a challenging position that provides an opportunity to grow and excel 
    - GIT
 
 ## Employment History:
---------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Tkbees
-   ##### Web Developer                                                                                                                                                                                                          Mar 2022 – Present
+   ##### Web Developer Mar 2022 – Present
    - Worked on NableMD/Nable IVF as full stack developer
    - Implement SMART on FHIR protocol defined by HL7 org
    - Develop and integrate new features based on customers request
@@ -42,7 +41,7 @@ To secure a challenging position that provides an opportunity to grow and excel 
    - API in Laravel
    
 #### Polyvista
-   ##### Web Development                                                                                                                                                                                           March 2021– March 2022
+   ##### Web Development March 2021– March 2022
    - Worked on different Chrome Extensions.
    
    ##### Post indexer Chrome extension
@@ -58,13 +57,12 @@ To secure a challenging position that provides an opportunity to grow and excel 
    - scrapped data on daily basis and store in database.
 
 ## Education:
---------------------------------------------------------------------------------------------------------------------------------------------
+
 #### (2016– 2020) B.S. Computer Sciences
    - University of Sargodha sub campus Mianwali
    - Major: Web Application Development, Data Structures, OOP, Digital Image Processing
    
 ## Projects:
---------------------------------------------------------------------------------------------------------------------------------------------
 #### SMART on FHIR : 
    - Successfully implemented SMART protocol for third party apps to connect with EMR for data interoperability based on HL7 FHIR standard for NableMD (EMR system).
 
